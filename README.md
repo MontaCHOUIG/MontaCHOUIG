@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: My first code.<br>📚 Currently learning: Backend and freelancing skills.<br>🎯 Goals: Build expertise and grow my business.<br>🎲 Fun fact: I thrive on solving tech puzzles!</p>
+<p align="left">✨ Creating bugs since: My first code.<br>📚 Currently learning: Backend developement.<br>🎯 Goals: Build expertise and grow my business.<br>🎲 Fun fact: I thrive on solving tech puzzles!</p>
 
 ###
 
